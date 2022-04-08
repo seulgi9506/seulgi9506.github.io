@@ -9,16 +9,16 @@ categories:
 
 <br><br>
 
-인프런 강의를 들으며 미니프로젝트를 따라 만들고 깃 레파지토리에 업로드하면서 <br>리드미에 프로젝트 설명을 해야겠다는 생각이 들어 리드미 쓰는법을 구글링했는데, <br>깃허브 프로필 꾸미기가 자꾸 나오는 것이 아닌가.. !<br><br>이럴수가.. 나 빼고 모두 예쁜 프로필을 가지고 있었어...<br>그래서 나도 리드미로 내 프로필을 꾸며야지!! 하고 맹글어보았다. 나의 **리.드.미.**<br>[참고 공식문서](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+인프런 강의를 들으며 미니프로젝트를 따라 만들고 깃 레파지토리에 업로드하면서 <br>리드미에 프로젝트 설명을 해야겠다는 생각이 들어 리드미 쓰는법을 구글링했는데, <br>깃허브 프로필 꾸미기가 자꾸 나오는 것이 아닌가.. !<br><br>이럴수가.. 나 빼고 모두 예쁜 프로필을 가지고 있었어...<br>그래서 나도 리드미로 내 프로필을 꾸며야지!! 하고 맹글어보았다. 나의 **리.드.미.**<br>👉[참고 공식문서](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 <br><br><br><br>
 
 ## Step 1 . Repository 만들기
 
 <br><br>
 
-- [ ] github 사용자 이름과 동일한 이름으로 repository 만들기
-- [ ] 공개 저장소로 만들기
-- [ ] 'Initialize this repository with: **Add a README file**' 체크 ! ✅
+✅ github 사용자 이름과 동일한 이름으로 repository 만들기<br>
+✅ 공개 저장소로 만들기<br>
+✅ 'Initialize this repository with: **Add a README file**' 체크 !
 
 <br><br>
 
@@ -47,10 +47,10 @@ Edit README 고고
 
 <br><br>
 
-> ### 참고
+> ### 참고⭐
 >
-> github profile 예쁘게 꾸미기 : https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0
-> capsule-render : https://github.com/kyechan99/capsule-render
+> github profile 예쁘게 꾸미기 : [https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0)<br>
+> capsule-render : [https://github.com/kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 
 <br><br><br><br>
 
@@ -86,9 +86,9 @@ Edit README 고고
 
 <br>
 
-> ### 참고
+> ### 참고⭐
 >
-> Github 프로필에 Daily 코딩 시간 나타내기 : https://codesyun.tistory.com/98
+> Github 프로필에 Daily 코딩 시간 나타내기 : [https://codesyun.tistory.com/98](https://codesyun.tistory.com/98)
 
 <br><br>
 ![image](https://user-images.githubusercontent.com/102353910/162474013-d0d3ca98-9c7e-4e8c-be3a-8dc741f6e3dc.png)

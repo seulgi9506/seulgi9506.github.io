@@ -49,7 +49,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Momentum" %}
-                        <li><a href="/categories/Momentum" class="">React.js | Momentum ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Momentum" class="">Vanilla JS | Momentum ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

@@ -26,7 +26,7 @@ HTML과 Javascript는 서로 연결되어있다.<br>콘솔창을 열어 간단�
 ![image](https://user-images.githubusercontent.com/102353910/162367027-c69a9aa0-bb09-430a-b615-0c249889ccad.png)
 
 <br>console창에 document를 입력하면 html코드가 나오는 것을 확인할 수 있다. <br>그리고 console.dir(document) 를 입력하면 html의 요소들이 객체형태로 들어있는 것을 확인할 수 있다. <br>그래서 우리가 바로 위에서 document.title로 타이틀을 변경할 수 있었던 것이다.<br>
-<img scr="https://user-images.githubusercontent.com/102353910/162369124-5e158d47-fc6f-4ed7-9a92-f1fc5ac595f4.png" width="500px" height="500px" />
+![image](https://user-images.githubusercontent.com/102353910/162369124-5e158d47-fc6f-4ed7-9a92-f1fc5ac595f4.png)
 
 <br>
 
@@ -84,6 +84,6 @@ document 객체의 key로 요소를 찾을 수 있고 그 value를 바꿀 수 �
     }
 
 바로 **<mark style="background-color: #d4d4f8">toggle</mark>** 이라는 녀석이다. <br>저 녀석 혼자서 저 위에 여러줄의 코드와 같은 기능을 한다는 것이다 ! ! !<br>매우 신기하고 놀라운 녀석이 아닐 수 없다.<br>아마 자주 사용하는 기능이니까 저렇게 따로 만들어진 것이 아닐까 추측해본다.<br>만약 니꼬쌤이 알려주지 않았더라면,, 나는 저 바보같은 여러줄의 코드를 만들고 있었을지 모른다.
-<br><br>그리고 사용 가능한 엄청나게 많은 이벤트들이 있는데 그것은 구글에 <mark style="background-color: #d4d4f8; color: blackl; text-decoration: none; "> [event mdn](https://developer.mozilla.org/ko/docs/Web/Events) </mark>이라고 검색하면 찾을 수 있다.
+<br><br>그리고 사용 가능한 엄청나게 많은 이벤트들이 있는데 그것은 구글에 [event mdn](https://developer.mozilla.org/ko/docs/Web/Events) 이라고 검색하면 찾을 수 있다.
 
 <br><br><br><br>

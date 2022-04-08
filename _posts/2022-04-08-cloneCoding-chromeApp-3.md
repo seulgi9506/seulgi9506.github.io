@@ -25,7 +25,8 @@ HTML과 Javascript는 서로 연결되어있다.<br>콘솔창을 열어 간단�
 
 ![image](https://user-images.githubusercontent.com/102353910/162367027-c69a9aa0-bb09-430a-b615-0c249889ccad.png)
 
-<br>console창에 document를 입력하면 html코드가 나오는 것을 확인할 수 있다. <br>그리고 console.dir(document) 를 입력하면 html의 요소들이 객체형태로 들어있는 것을 확인할 수 있다. <br>그래서 우리가 바로 위에서 document.title로 타이틀을 변경할 수 있었던 것이다.<br>
+<br>console창에 document를 입력하면 html코드가 나오는 것을 확인할 수 있다. <br>그리고 console.dir(document) 를 입력하면 html의 요소들이 객체형태로 들어있는 것을 확인할 수 있다. <br>그래서 우리가 바로 위에서 document.title로 타이틀을 변경할 수 있었던 것이다.
+<br>
 ![image](https://user-images.githubusercontent.com/102353910/162369124-5e158d47-fc6f-4ed7-9a92-f1fc5ac595f4.png)
 
 <br>

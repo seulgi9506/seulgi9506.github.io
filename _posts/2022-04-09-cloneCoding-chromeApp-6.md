@@ -11,19 +11,19 @@ categories:
 
 명언을 랜덤하게 보여주는 기능
 
-<br>
+quotes.js<br>
 
 ```js
 const  quotes  = [
-	{
-		quote: "I am not afraid of storms for I am learning how to sail my ship.",
-		author: "Helen Keller",
-	},
-	{
-		quote: "The greatest mistake you can make in life is to be continually fearing you will make one.",
-		author: "Elbert Hubbard",
-	},
-	...
+  {
+    quote: "I am not afraid of storms for I am learning how to sail my ship.",
+    author: "Helen Keller",
+  },
+  {
+    quote: "The greatest mistake you can make in life is to be continually fearing you will make one.",
+    author: "Elbert Hubbard",
+  },
+  ...
 ];
 
 const  quote  =  document.querySelector("#quote span:first-child");
@@ -49,7 +49,7 @@ author.innerText =  todaysQuote.author;
 
 ## background
 
-<br>
+background.js<br>
 
 배경도 마찬가지로 랜덤한 사진을 배경으로 보이게 만들어야 하기 때문에<br>명언과 똑같이 만들 수 있다.
 <br>

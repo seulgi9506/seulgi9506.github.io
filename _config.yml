@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name: "Seulgi"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/cookie3.jpg"
   bio: "Cat saves the world"
   location: "Somewhere"
   email:

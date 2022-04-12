@@ -51,13 +51,17 @@ categories:
 
 <br>
 
-#### **<mark style="background-color: #d4d4f8">import http from "http";</mark>**<br><br>
+##### **<mark style="background-color: #d4d4f8">import http from "http";</mark>**<br><br>
 
-#### **<mark style="background-color: #d4d4f8">import WebSocket from "ws";</mark>**<br><br>
+##### **<mark style="background-color: #d4d4f8">import WebSocket from "ws";</mark>**<br><br>
 
-#### **<mark style="background-color: #d4d4f8">const server = http.createServer(app);</mark>**<br>http서버에 access<br><br>
+##### **<mark style="background-color: #d4d4f8">const server = http.createServer(app);</mark>**
 
-#### **<mark style="background-color: #d4d4f8">const wss = new WebSocket.Server({ server });</mark>**<br>http서버 위에 WebSocket 서버 만들기<br><br>
+http서버에 access<br><br>
+
+##### **<mark style="background-color: #d4d4f8">const wss = new WebSocket.Server({ server });</mark>**
+
+http서버 위에 WebSocket 서버 만들기<br><br>
 
 localhost가 동일한 포트에서 http, ws request 두 개를 다 처리할 수 있다.
 
@@ -134,7 +138,7 @@ app.js에서 받음.
 
 <br>
 
-#### 🆗해결🆗
+### 🆗해결🆗
 
 <br>
 

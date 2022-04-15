@@ -19,7 +19,7 @@ categories:
 - [ ] WebSocket의 부가기능이 아니다.
 - [ ] WebSocket을 지원하지 않으면 http long-polling을 사용한다.
 - [ ] 와이파이가 끊기면 자동적으로 재연결을 시도한다.
-- [ ] firewell이나 proxy가 있어도 사용가능하다.
+- [ ] firewall이나 proxy가 있어도 사용가능하다.
 - [ ] 모든 플랫폼, 모든 브라우저, 모든 디바이스에 이용 가능하다.
 
 <br><br><br>

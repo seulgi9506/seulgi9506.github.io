@@ -1,5 +1,5 @@
 ---
-title: "[SocketIO] Nomad Coders 줌 클론코딩 #0"
+title: "[Setup] Nomad Coders 줌 클론코딩 #0"
 published: true
 categories:
   - zoomClone

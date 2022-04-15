@@ -1,5 +1,5 @@
 ---
-title: "[SocketIO] Nomad Coders 줌 클론코딩 #1.9"
+title: "[WebSocket] Nomad Coders 줌 클론코딩 #1.9"
 published: true
 categories:
   - zoomClone

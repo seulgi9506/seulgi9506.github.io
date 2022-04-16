@@ -45,11 +45,18 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">Clone Coding </span>    
+        <span class="nav__sub-title">Nomad Coders </span>    
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Momentum" %}
                         <li><a href="/categories/Momentum" class="">Vanilla JS | Momentum ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "movieApp" %}
+                        <li><a href="/categories/movieApp" class="">React.js | MovieApp ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

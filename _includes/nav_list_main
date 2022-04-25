@@ -45,6 +45,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">MINI </span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "minitodo" %}
+                        <li><a href="/categories/minitodo" class="">MINI | To do ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <span class="nav__sub-title">Nomad Coders </span>    
             <ul>
                 {% for category in site.categories %}
